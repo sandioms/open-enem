@@ -1,0 +1,129 @@
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\mlemodel.py:1234: RuntimeWarning: invalid value encountered in divide
+  np.inner(score_obs, score_obs) /
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:406: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + np.log(nobs) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: invalid value encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\mlemodel.py:1234: RuntimeWarning: invalid value encountered in divide
+  np.inner(score_obs, score_obs) /
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:406: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + np.log(nobs) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: invalid value encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:190: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for ARMA and trend. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\statespace\mlemodel.py:1234: RuntimeWarning: invalid value encountered in true_divide
+  np.inner(score_obs, score_obs) /
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:406: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + np.log(nobs) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: divide by zero encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tools\eval_measures.py:431: RuntimeWarning: invalid value encountered in log
+  return -2.0 * llf + 2 * np.log(np.log(nobs)) * df_modelwc
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:189: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\statsmodels\tsa\stattools.py:467: RuntimeWarning: Mean of empty slice.
+  xo = x - x.mean()
+
+WARNING:py.warnings:C:\Users\sandi\miniconda3\envs\geo-env\lib\site-packages\numpy\core\_methods.py:189: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+

@@ -1,0 +1,49 @@
+Desempenho,Percentual,Renda Familiar,Dependência ADM
+Desistente,0.2921 ,Até 1 Salário,Público
+0 - 25,0.2720 ,Até 1 Salário,Público
+26 - 74,0.3805 ,Até 1 Salário,Público
+75 - 100,0.0555 ,Até 1 Salário,Público
+Desistente,0.0817 ,Até 1 Salário,Privado
+0 - 25,0.1186 ,Até 1 Salário,Privado
+26 - 74,0.5074 ,Até 1 Salário,Privado
+75 - 100,0.2923 ,Até 1 Salário,Privado
+Desistente,0.2463 ,"1,5 salário",Público
+0 - 25,0.2308 ,"1,5 salário",Público
+26 - 74,0.4241 ,"1,5 salário",Público
+75 - 100,0.0988 ,"1,5 salário",Público
+Desistente,0.0572 ,"1,5 salário",Privado
+0 - 25,0.0792 ,"1,5 salário",Privado
+26 - 74,0.4617 ,"1,5 salário",Privado
+75 - 100,0.4018 ,"1,5 salário",Privado
+Desistente,0.2294 ,2 salários,Público
+0 - 25,0.1930 ,2 salários,Público
+26 - 74,0.4598 ,2 salários,Público
+75 - 100,0.1177 ,2 salários,Público
+Desistente,0.0516 ,2 salários,Privado
+0 - 25,0.0711 ,2 salários,Privado
+26 - 74,0.4628 ,2 salários,Privado
+75 - 100,0.4145 ,2 salários,Privado
+Desistente,0.2258 ,"2,5 salários",Público
+0 - 25,0.2054 ,"2,5 salários",Público
+26 - 74,0.4257 ,"2,5 salários",Público
+75 - 100,0.1431 ,"2,5 salários",Público
+Desistente,0.0405 ,"2,5 salários",Privado
+0 - 25,0.0693 ,"2,5 salários",Privado
+26 - 74,0.4275 ,"2,5 salários",Privado
+75 - 100,0.4627 ,"2,5 salários",Privado
+Desistente,0.2008 ,3 salários,Público
+0 - 25,0.1543 ,3 salários,Público
+26 - 74,0.4567 ,3 salários,Público
+75 - 100,0.1881 ,3 salários,Público
+Desistente,0.0569 ,3 salários,Privado
+0 - 25,0.0540 ,3 salários,Privado
+26 - 74,0.4052 ,3 salários,Privado
+75 - 100,0.4839 ,3 salários,Privado
+Desistente,0.1602 ,Mais de 3 salários,Público
+0 - 25,0.1232 ,Mais de 3 salários,Público
+26 - 74,0.4432 ,Mais de 3 salários,Público
+75 - 100,0.2734 ,Mais de 3 salários,Público
+Desistente,0.0613 ,Mais de 3 salários,Privado
+0 - 25,0.0381 ,Mais de 3 salários,Privado
+26 - 74,0.2994 ,Mais de 3 salários,Privado
+75 - 100,0.6012 ,Mais de 3 salários,Privado
